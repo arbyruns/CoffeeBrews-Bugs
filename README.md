@@ -1,5 +1,5 @@
 # CoffeeBrews-Bugs
-CoffeeBrews iOS App
+[CoffeeBrews iOS App - Download here](https://apps.apple.com/us/app/id1537145229)
 
 # CoffeeBrews-Bugs
 
